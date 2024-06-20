@@ -1,1 +1,1 @@
-# rn-chatapp
+# RN Chat App
